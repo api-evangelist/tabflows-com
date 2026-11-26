@@ -64,28 +64,21 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Tabflows is a dedicated AI‑native technology team serving independent healthcare clinics, providing software, AI automation, and human support to streamline clinical workflows, integrate EHRs, and enable direct primary care practices to operate efficiently without adding headcount. The team combines expertise in task management, collaboration tools, and healthcare IT to help clinics grow and improve patient care.
+Tabflows is an AI‑native technology team dedicated to supporting independent healthcare clinics, especially Direct Primary Care and concierge practices. They provide software, AI automation, and operational support to streamline clinic workflows, integrate EHRs, and help teams grow without adding headcount.
 
-**Areas:** Company · Healthcare · AI · Operations · Technology
+**Areas:** AI · Healthcare · Operations · Automation · EHR
 
 ## Tabflows on APIs.io
 
 Everything profiled for Tabflows is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/tabflows-com/](https://apis.io/providers/tabflows-com/)** — or go straight to one of the APIs or properties below.
 
-### APIs (2)
+### APIs (1)
 
-- [Tabflows API](https://apis.io/apis/tabflows-com/tabflows-api/) — Tabflows provides AI‑native automation tools for independent healthcare clinics. The API surface is documented on the website but no machine‑readable…
-- [Tabflows API](https://apis.io/apis/tabflows-com/tabflows-com-api/) — Tabflows API as documented publicly: 1 operations. Contract generated from the documentation by API Evangelist (2026-11-26); not the provider's own document.
+- [Tabflows API](https://apis.io/apis/tabflows-com/tabflows-api/) — Tabflows provides an API for healthcare clinic automation, documented on their pricing page.
 
 ### Published properties
 
 Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
-
-#### Governance rules (1)
-
-Spectral rulesets for the provider's contracts.
-
-- [Tabflows API Rules](https://apis.io/rules/tabflows-com/tabflows-com-rules/)
 
 #### Security (3)
 
@@ -106,6 +99,7 @@ Published plans, tiers and prices.
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://tabflows.com/)
+- [Documentation](https://www.tabflows.com/docs)
 - [Getting started](https://www.tabflows.com/blog/medical-va-onboarding-checklist-clinic-workflows)
 - [Pricing](https://www.tabflows.com/pricing)
 - [Support](https://www.tabflows.com/university/help)
@@ -118,22 +112,22 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 47.3** — developing · rubric 0.29.0 · scored 2026-11-26
+**Kin Score 31.3** — thin · rubric 0.28.0 · scored 2026-11-26
 
 | Facet | Score |
 |---|---|
-| Discoverability | 75.0 |
-| Contract quality | 38.7 |
-| Contract governance | 79.1 |
+| Discoverability | 67.9 |
+| Contract quality | 0.0 |
+| Contract governance | 16.4 |
 | Operational transparency | 23.8 |
-| Developer ergonomics | 19.0 |
+| Developer ergonomics | 28.6 |
 | Access clarity | 61.3 |
 
-**Agent readiness 25.7** — agent-aware
+**Agent readiness 8.9** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
-| Spec Presence | yes |
+| Spec Presence | — |
 | Agentic Access | — |
 | Reversibility Documented | — |
 | MCP Server | documented (partial credit) |
@@ -144,8 +138,8 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Rate Limit Signal | — |
 | Event Surface Described | — |
 | Agent Skills | — |
-| Well Known Catalog | yes |
-| Consent Identity | signal |
+| Well Known Catalog | — |
+| Consent Identity | — |
 | Agent Card | conformant |
 | Dry Run Mode | — |
 | Delegated Identity | — |
@@ -155,9 +149,6 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
 | MCP Tool Quality | na |
-| Onboarding Descriptor | — |
-| Dns Aid Index | na |
-| Markdown Negotiation | yes |
 
 **Regulatory alignment 22.1** — Health
 
